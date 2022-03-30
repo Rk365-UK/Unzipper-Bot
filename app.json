@@ -7,8 +7,8 @@
         "Telegram Bot",
         "unzipper bot"
     ],
-    "website": "https://t.me/NexaBotsUpdates",
-    "repository": "https://github.com/Itz-fork/Unzipper-Bot",
+    "website": "https://t.me/greymatter_bots",
+    "repository": "https://github.com/greymatter658/Unzipper-Bot",
     "success_url": "https://t.me/NexaBotsUpdates",
     "env": {
         "APP_ID": {
